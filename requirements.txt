@@ -1,4 +1,0 @@
-PyQt5==5.15.9
-ultralytics==8.0.196
-opencv-python-headless==4.8.0.76
-
